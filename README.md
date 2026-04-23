@@ -1,4 +1,5 @@
 # E-Commerce Sales & Delivery Performance Dashboard — Olist
+![Dashboard](dashboard_olist.png)
 
 This project analyzes the Brazilian Olist e-commerce dataset to evaluate sales growth, delivery efficiency, and customer satisfaction using SQL (BigQuery) and Looker Studio.
 
